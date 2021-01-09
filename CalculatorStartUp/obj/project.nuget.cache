@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+fJBs6Fq4qgcSsWtjRx1LTBpniYgth8jKl+XCcxr2C7HSptNVUPW37spmwrqhLKfTiALJc8t89ysCbH4LqxHwQ==",
+  "success": true,
+  "projectFilePath": "/home/meiram/RiderProjects/Calculator/CalculatorStartUp/CalculatorStartUp.csproj",
+  "expectedPackageFiles": [
+    "/home/meiram/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+/home/meiram/RiderProjects/Calculator/CalculatorLibrary/bin/Debug/net5.0/CalculatorLibrary.deps.json
+/home/meiram/RiderProjects/Calculator/CalculatorLibrary/bin/Debug/net5.0/CalculatorLibrary.dll
+/home/meiram/RiderProjects/Calculator/CalculatorLibrary/bin/Debug/net5.0/ref/CalculatorLibrary.dll
+/home/meiram/RiderProjects/Calculator/CalculatorLibrary/bin/Debug/net5.0/CalculatorLibrary.pdb
+/home/meiram/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net5.0/CalculatorLibrary.csprojAssemblyReference.cache
+/home/meiram/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net5.0/CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/meiram/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net5.0/CalculatorLibrary.AssemblyInfoInputs.cache
+/home/meiram/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net5.0/CalculatorLibrary.AssemblyInfo.cs
+/home/meiram/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net5.0/CalculatorLibrary.csproj.CoreCompileInputs.cache
+/home/meiram/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net5.0/CalculatorLibrary.dll
+/home/meiram/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net5.0/ref/CalculatorLibrary.dll
+/home/meiram/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net5.0/CalculatorLibrary.pdb
